@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Selamat datang di website SatyaNugraha, web yang membahas seputar dunia blogging
 
-[Link to another page](./another-page.html).
+[satya22.com](http://www.satya22.com.html).
 
 There should be whitespace between paragraphs.
 
