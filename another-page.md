@@ -4,6 +4,6 @@ layout: default
 
 ## Welcome to another page
 
-_yay_
+More info at http://satya22.com
 
 [back](./)
